@@ -182,7 +182,7 @@
 				<Title>neighboring_subbasins</Title>
 				<Abstract>GH:neighboring_subbasins ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸9</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-122.45507063731274" miny="38.01827477196466" maxx="-121.08877416922657" maxy="39.79915884408897"></LatLonBoundingBox>
